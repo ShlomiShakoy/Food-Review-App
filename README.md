@@ -1,4 +1,3 @@
 # Food-Review-App
-Final project completed for an Android Development course with Kotlin.
-Access the project via the following link:
+Created as our final project for an Android Development course with Kotlin, this app, developed by myself and my friend Alex, centers on food reviews. Users can easily share dining experiences and explore top-rated eateries. Leveraging Firebase and coroutines, users can submit detailed reviews, including dish, restaurant, and star ratings. Additional features include support contact options, photo uploads, and categorized cuisine types. Admin permissions ensure data integrity, with the project available for access via the following link:
 https://drive.google.com/drive/folders/1sLnURr0ZZ9AvnHwsyAJFnDq4bZlU68co?usp=sharing
